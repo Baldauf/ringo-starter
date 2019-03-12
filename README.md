@@ -1,29 +1,16 @@
-# thing
+# Ringo Starter
 
 ## Project setup
 ```
 npm install
 ```
 
+This wil import ringo-styleguide as a component library.
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`~/src/App.vue` shows how ringo components can be imported and used as vue components.
+Ringo styles are shown just linked as a css file.
