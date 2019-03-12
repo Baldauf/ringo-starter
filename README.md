@@ -13,4 +13,5 @@ npm run serve
 ```
 
 `~/src/App.vue` shows how ringo components can be imported and used as vue components.
-Ringo styles are shown just linked as a css file.
+
+Ringo styles are shown just linked as a css file at the moment.
